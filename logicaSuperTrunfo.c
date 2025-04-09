@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int main()  {
     char pais [50];
     char codigo [50];
     unsigned int pop;
